@@ -1,3 +1,7 @@
+![Irgi Muhammad Fadll](img/header.jpg)
+
+## Hello World, I’m Irgi Muhammad Fadll 👋
+
 # 💫 About Me:
 
 👀 I’m a student informatics engineering of UIN Sunan Gunung Djati Bandung<br>🌱 I’m currently learning Coding<br>⚡ Fun fact: I love everything :D
@@ -12,7 +16,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Irgimf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Irgimf&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Irgimf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -24,4 +27,20 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/igye)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##### Find me on
+
+<img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" /> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
+
+<div align = "center" ><h5> Play Pacman with Me </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irgimf/Irgimf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irgimf/Irgimf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Irgimf/Irgimf/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<!---
+Irgimf/Irgimf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
