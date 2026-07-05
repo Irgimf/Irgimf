@@ -1,7 +1,5 @@
 ![Irgi Muhammad Fadll](img/header.jpg)
 
-## Hello World, I’m Irgi Muhammad Fadll 👋
-
 # 💫 About Me:
 
 👀 I’m a student informatics engineering of UIN Sunan Gunung Djati Bandung<br>🌱 I’m currently learning Coding<br>⚡ Fun fact: I love everything :D
